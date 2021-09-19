@@ -1,0 +1,16 @@
+{
+  "name": "menzigen",
+  "version": "1.0.0",
+  "description": "This is a password generator package for your node app. Simple to understand and implement without hardship. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "node"
+  ],
+  "author": "philane_msibi",
+  "license": "ISC"
+}
